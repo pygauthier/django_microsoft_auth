@@ -1,0 +1,4 @@
+README.md
+recursive-include microsoft_auth/static/microsoft *
+recursive-include microsoft_auth/templates/microsoft *
+recursive-include microsoft_auth/locale *

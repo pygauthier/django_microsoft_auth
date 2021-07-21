@@ -1,0 +1,1 @@
+LOGIN_TYPE_MA = "ma"
